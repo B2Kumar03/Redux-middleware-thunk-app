@@ -1,0 +1,28 @@
+{
+  "todo": [
+    {
+      "id": 2,
+      "title": "learn java in",
+      "status": true,
+      "description": "Purchase vegetables, fruits, and milk from the local grocery store."
+    },
+    {
+      "id": 5,
+      "title": "Learn earn money",
+      "status": true,
+      "description": "Start reading 'To Kill a Mockingbird' for English class."
+    },
+    {
+      "id": 6,
+      "title": "Pay Bills",
+      "status": false,
+      "description": "Clear all pending utility bills before the due date."
+    },
+    {
+      "title": "Learn DSA",
+      "description": "Learn DSA in depth",
+      "status": true,
+      "id": 7
+    }
+  ]
+}
