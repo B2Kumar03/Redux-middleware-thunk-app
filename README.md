@@ -2,7 +2,7 @@
 
 # Redux Thunk Todo App
 
-This is a simple todo application built with React, Chakra UI, Axios, Redux, React Redux, and React Router on the frontend, and JSON Server on the backend.
+Simple todo application built with React, Chakra UI, Axios, Redux, React Redux, and React Router on the frontend, and JSON Server on the backend.
 
 ## Features
 
